@@ -7,6 +7,20 @@ I am currently working on completing the Data Engineering Nanodegree from Udacit
 You can find me on <a href="https://linkedin.com/in/nasseredine/"><img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/logo/linkedin.png" width="17.5px"/></a>.
 
 
+## Tools & Technologies
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/Shell%20%26%20Scripting-GNU%20Bash-informational?style=flat&logo=Linux&logoColor=white&color=4EAA25)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=007396)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=336791)
+![](https://img.shields.io/badge/DB-Apache%20Cassandra-informational?style=flat&logo=Apache%20Cassandra&logoColor=white&color=1287B1)
+![](https://img.shields.io/badge/Framework-Apache%20Spark-informational?style=flat&logo=Apache%20Spark&logoColor=white&color=E25A1C)
+![](https://img.shields.io/badge/Framework-Apache%20Flink-informational?style=flat&logo=Apache%20Flink&logoColor=white&color=E6526F)
+![](https://img.shields.io/badge/Plateform-Apache%20Airflow-informational?style=flat&logo=Apache%20Airflow&logoColor=white&color=007A88)
+![](https://img.shields.io/badge/Cloud-Goolge%20Cloud%20Platform-informational?style=flat&logo=Google%20Cloud&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=232F3E)
+
 
 ## Google Cloud Skill Badges
 
