@@ -2,7 +2,7 @@
 
 My name is Nasseredine Bajwa and I'm a Cloud Data Engineer. I live in France and I'm currently seeking opportunities in the field of Cloud Engineering, Data Engineering, or Data Science.
 
-I am currently working on completing the Data Engineering Nanodegree from Udacity and getting ready to certify as an Associate Cloud Engineer on Google Cloud Platform.
+I am currently working on completing Udacity <a href="https://github.com/nasseredine/udacity-dend/blob/master/README.md">Data Engineering Nanodegree projects</a>  and getting ready to certify as an Associate Cloud Engineer on Google Cloud Platform.
 
 You can find me on <a href="https://linkedin.com/in/nasseredine/"><img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/logo/linkedin.png" width="17.5px"/></a>.
 
