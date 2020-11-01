@@ -1,8 +1,8 @@
 # Hello, World! 👋
 
-My name is Nasseredine Bajwa and I'm a Cloud Data Engineer. I live in France and I'm currently seeking opportunities in the field of Cloud Engineering, Data Engineering, or Data Science.
+My name is Nasseredine Bajwa and I'm a Google Cloud Certified Associate Cloud Engineer. I live in France and I'm currently seeking opportunities in the field of Cloud Engineering, Data Engineering, or Data Science.
 
-I am currently working on completing Udacity <a href="https://github.com/nasseredine/udacity-dend/blob/master/README.md">Data Engineering Nanodegree projects</a>  and getting ready to certify as an Associate Cloud Engineer on Google Cloud Platform.
+I am currently working on completing Udacity <a href="https://github.com/nasseredine/udacity-dend/blob/master/README.md">Data Engineering Nanodegree projects</a>.
 
 You can find me on <a href="https://linkedin.com/in/nasseredine/"><img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/logo/linkedin.png" width="20px"/></a>. Check my Qwiklabs public profile here <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb"><img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/logo/qwiklabs.png" width="20px"/></a>.
 
