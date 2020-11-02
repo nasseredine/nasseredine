@@ -1,8 +1,8 @@
 # Hello, World! 👋
 
-My name is Nasseredine Bajwa and I'm a Google Cloud Certified Associate Cloud Engineer. I live in France and I'm currently seeking opportunities in the field of Cloud Engineering, Data Engineering, or Data Science.
+My name is Nasseredine Bajwa and I'm a Google Cloud Certified Associate Cloud Engineer. I live in France and I'm currently seeking opportunities in the field of Cloud Engineering, Data Engineering, or Data Science leveraging Google Cloud Platform services.
 
-I am currently working on completing Udacity <a href="https://github.com/nasseredine/udacity-dend/blob/master/README.md">Data Engineering Nanodegree projects</a>.
+I am currently working on completing Udacity <a href="https://github.com/nasseredine/udacity-dend/blob/master/README.md">Data Engineering Nanodegree</a> capstone project.
 
 You can find me on <a href="https://linkedin.com/in/nasseredine/"><img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/logo/linkedin.png" width="20px"/></a>. Check my Qwiklabs public profile here <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb"><img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/logo/qwiklabs.png" width="20px"/></a>.
 
@@ -25,10 +25,12 @@ You can find me on <a href="https://linkedin.com/in/nasseredine/"><img src="http
 ## Google Cloud Skill Badges
 
 <div>
-  <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_cloud_infrastructure_0_create_and_manage_cloud_resources.png" width="175px"/>
-  <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_cloud_infrastructure_1_foundational_infrastructure.png" width="175px"/>
-  <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_cloud_infrastructure_2_set_up_and_configure_cloud_environments.png" width="175px"/>
+  <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_create_and_manage_cloud_resources.png" width="175px"/>
+  <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_foundational_infrastructure.png" width="175px"/>
+  <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_set_up_and_configure_cloud_environments.png" width="175px"/>
+  <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_deploy_to_kubernetes.png" width="175px"/>
 </div>
+
 
 
 
