@@ -32,7 +32,7 @@ I am currently working on completing Udacity <a href="https://github.com/nassere
   </p>
 </div>
 
-### Skill badges
+### Skill badges <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb" target="_blank"><img alt="Qwiklabs" src="https://img.shields.io/badge/Qwiklabs-%23F5CD0E.svg?style=for-the-badge&logo=Qwiklabs&logoColor=white" /></a>
 
 <div>
   <p align="center">
@@ -49,13 +49,6 @@ I am currently working on completing Udacity <a href="https://github.com/nassere
       <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_deploy_to_kubernetes.png" width="175px" alt="Deploy to Kubernetes Skill"/>
     </a>
   </p>
-</div>
-
-<div>
-  <p align="center">
-    More badges on
-    <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb" target="_blank"><img alt="Qwiklabs" src="https://img.shields.io/badge/Qwiklabs-%23F5CD0E.svg?style=for-the-badge&logo=Qwiklabs&logoColor=white" /></a>
-  <p>
 </div>
 
 <hr>
