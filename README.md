@@ -26,18 +26,27 @@ I am currently working on completing Udacity <a href="https://github.com/nassere
 
 <div>
   <p align="center">
-  <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb/badges/329357" target="_blank">
-    <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_create_and_manage_cloud_resources.png" width="175px" alt="Create and Manage Cloud Resources"/>
-  </a>
-  <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb/badges/344080" target="_blank">
-    <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_foundational_infrastructure.png" width="175px" alt="Foundational Infrastructure"/>
-  </a>
-  <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb/badges/345669" target="_blank"><img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_set_up_and_configure_cloud_environments.png" width="175px" alt="Set Up and Configure Cloud Environments"/>
-  </a>
-  <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb/badges/467538" target="_blank"><img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_deploy_to_kubernetes.png" width="175px" alt="Deploy to Kubernetes Skill"/></a>
+    <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb/badges/329357" target="_blank">
+      <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_create_and_manage_cloud_resources.png" width="175px" alt="Create and Manage Cloud Resources"/>
+    </a>
+    <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb/badges/344080" target="_blank">
+      <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_foundational_infrastructure.png" width="175px" alt="Foundational Infrastructure"/>
+    </a>
+    <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb/badges/345669" target="_blank">
+      <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_set_up_and_configure_cloud_environments.png" width="175px" alt="Set Up and Configure Cloud Environments"/>
+    </a>
+    <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb/badges/467538" target="_blank">
+      <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_deploy_to_kubernetes.png" width="175px" alt="Deploy to Kubernetes Skill"/>
+    </a>
   </p>
 </div>
 
+<div>
+  <p align="center">
+    More badges on
+    <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb" target="_blank"><img alt="Qwiklabs" src="https://img.shields.io/badge/Qwiklabs-%23F5CD0E.svg?style=for-the-badge&logo=Qwiklabs&logoColor=white" /></a>
+  <p>
+</div>
 
 <hr>
 <div>
