@@ -4,8 +4,6 @@ My name is Nasseredine Bajwa and I'm a Google Cloud Certified Associate Cloud En
 
 I am currently working on completing Udacity <a href="https://github.com/nasseredine/udacity-dend/blob/master/README.md">Data Engineering Nanodegree</a> capstone project.
 
-You can find me on <a href="https://linkedin.com/in/nasseredine/"><img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/logo/linkedin.png" width="20px"/></a>. Check my Qwiklabs public profile here <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb"><img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/logo/qwiklabs.png" width="20px"/></a>.
-
 
 ## Tools & Technologies
 
@@ -29,4 +27,20 @@ You can find me on <a href="https://linkedin.com/in/nasseredine/"><img src="http
   <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_foundational_infrastructure.png" width="175px"/>
   <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_set_up_and_configure_cloud_environments.png" width="175px"/>
   <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_deploy_to_kubernetes.png" width="175px"/>
+</div>
+
+
+<hr>
+<div>
+  <p align="center">
+    <a href="https://github.com/nasseredine" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
+    <a href="mailto:fr.bajwa.nasseredine@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/nasseredine" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+    <a href="https://twitter.com/Nasseredine_B" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  </p>
+  <p align="center">
+    <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb" target="_blank"><img alt="Qwiklabs" src="https://img.shields.io/badge/Qwiklabs-%23F5CD0E.svg?style=for-the-badge&logo=Qwiklabs&logoColor=white" /></a>
+    <a href="https://www.coursera.org/user/8fc607335fb5cbb0ca4e7f7e5b580e2e" target="_blank"><img alt="Coursera" src="https://img.shields.io/badge/Coursera-%232A73CC.svg?style=for-the-badge&logo=Coursera&logoColor=white" /></a>
+    <a href="https://www.hackerrank.com/nasseredine" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  </p>
 </div>
