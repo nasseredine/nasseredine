@@ -12,20 +12,20 @@ I am currently working on completing Udacity <a href="https://github.com/nassere
 <p>
   <img src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud Platform"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Apache Spark"/>
-  <img src="https://img.shields.io/badge/-Apache_Airflow-007A88?style=flat-square&logo=apache-airflow&logoColor=white" alt="Apache Airflow"/>
-  <img src="https://img.shields.io/badge/-Apache_Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white" alt="Apache Cassandra"/>
   <img src="https://img.shields.io/badge/-PostgresSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgresSQL"/>
+  <img src="https://img.shields.io/badge/-Apache_Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white" alt="Apache Cassandra"/>
+  <img src="https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Apache Spark"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/-Apache_Airflow-007A88?style=flat-square&logo=apache-airflow&logoColor=white" alt="Apache Airflow"/>
   <img src="https://img.shields.io/badge/-GNU_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="GNU Bash"/>
   <img src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="Apache Web Services"/>
 </p>
 
 ### Currently learning
 <p>
-  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/-Apache_Kafka-000000?style=flat-square&logo=apache-kafka&logoColor=white" alt="Apache Kafka"/>
 </p>
 
