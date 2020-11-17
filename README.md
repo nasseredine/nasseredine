@@ -22,6 +22,16 @@ I am currently working on completing Udacity <a href="https://github.com/nassere
 
 ## Google Cloud
 
+### Certification badges
+
+<div>
+  <p align="center">
+    <a href="https://www.credential.net/d2865d9a-f6f9-4801-b6b4-8956cc7e8ce5" target="_blank">
+      <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_certification_badges/gcp_certification_badge_associate_cloud_engineer.png" width="175px" alt="Google Cloud Certified - Associate Cloud Engineer"/>
+      </a>
+  </p>
+</div>
+
 ### Skill badges
 
 <div>
