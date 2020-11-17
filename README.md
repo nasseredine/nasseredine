@@ -5,19 +5,29 @@ My name is Nasseredine Bajwa and I'm a Google Cloud Certified Associate Cloud En
 I am currently working on completing Udacity <a href="https://github.com/nasseredine/udacity-dend/blob/master/README.md">Data Engineering Nanodegree</a> capstone project.
 
 
-## Tools & Technologies
+## Skills
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=FCC624)
-![](https://img.shields.io/badge/Shell%20%26%20Scripting-GNU%20Bash-informational?style=flat&logo=Linux&logoColor=white&color=4EAA25)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=007396)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=336791)
-![](https://img.shields.io/badge/DB-Apache%20Cassandra-informational?style=flat&logo=Apache%20Cassandra&logoColor=white&color=1287B1)
-![](https://img.shields.io/badge/Framework-Apache%20Spark-informational?style=flat&logo=Apache%20Spark&logoColor=white&color=E25A1C)
-![](https://img.shields.io/badge/Framework-Apache%20Flink-informational?style=flat&logo=Apache%20Flink&logoColor=white&color=E6526F)
-![](https://img.shields.io/badge/Plateform-Apache%20Airflow-informational?style=flat&logo=Apache%20Airflow&logoColor=white&color=007A88)
-![](https://img.shields.io/badge/Cloud-Goolge%20Cloud%20Platform-informational?style=flat&logo=Google%20Cloud&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=232F3E)
+### Core
+
+<p>
+  <img src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud Platform"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Apache Spark"/>
+  <img src="https://img.shields.io/badge/-Apache_Airflow-007A88?style=flat-square&logo=apache-airflow&logoColor=white" alt="Apache Airflow"/>
+  <img src="https://img.shields.io/badge/-Apache_Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white" alt="Apache Cassandra"/>
+  <img src="https://img.shields.io/badge/-PostgresSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgresSQL"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/-GNU_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="GNU Bash"/>
+  <img src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="Apache Web Services"/>
+</p>
+
+### Currently learning
+<p>
+  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/-Apache_Kafka-000000?style=flat-square&logo=apache-kafka&logoColor=white" alt="Apache Kafka"/>
+</p>
 
 
 ## Google Cloud
@@ -31,6 +41,7 @@ I am currently working on completing Udacity <a href="https://github.com/nassere
       </a>
   </p>
 </div>
+
 
 ### Skill badges
 
@@ -51,7 +62,9 @@ I am currently working on completing Udacity <a href="https://github.com/nassere
   </p>
 </div>
 
-<hr>
+
+<hr/>
+
 <div>
   <p align="center">
     <a href="https://github.com/nasseredine" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
