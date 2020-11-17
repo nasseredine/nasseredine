@@ -32,7 +32,7 @@ I am currently working on completing Udacity <a href="https://github.com/nassere
   </p>
 </div>
 
-### Skill badges <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb" target="_blank"><img alt="Qwiklabs" src="https://img.shields.io/badge/Qwiklabs-%23F5CD0E.svg?style=for-the-badge&logo=Qwiklabs&logoColor=white" /></a>
+### Skill badges
 
 <div>
   <p align="center">
