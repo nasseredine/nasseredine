@@ -4,6 +4,11 @@ My name is Nasseredine Bajwa and I'm a Google Cloud Certified Associate Cloud En
 
 I am currently working on completing Udacity <a href="https://github.com/nasseredine/udacity-dend/blob/master/README.md">Data Engineering Nanodegree</a> capstone project.
 
+## Projects
+- <a href="https://github.com/nasseredine/udacity-dend/blob/master/README.md">Data Engineering Nanodegree projects</a>
+
+
+
 
 ## Skills
 
