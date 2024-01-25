@@ -30,12 +30,25 @@ As a freelance Cloud DevOps Engineer, I help businesses deploy and manage their 
 
 ## Certification badges
 
+### Linux Training Foundation
+
+<div>
+  <p align="center">
+    <a href="https://www.credly.com/badges/b63ddfdb-b540-42c0-9c16-448c0c37ca1e" target="_blank">
+      <img src="./images/ltf_certification_badges/kcna.png" width="175px" alt="KCNA: Kubernetes and Cloud Native Associate"/>
+    </a>
+     <a href="https://www.credly.com/badges/e0abbcb2-5d9b-4b12-9752-c2c6d51de2c2" target="_blank">
+      <img src="./images/ltf_certification_badges/cka.png" width="175px" alt="CKA: Certified Kubernetes Administrator"/>
+    </a>
+  </p>
+</div>
+
 ### Google Cloud
 
 <div>
   <p align="center">
     <a href="https://www.credential.net/d2865d9a-f6f9-4801-b6b4-8956cc7e8ce5" target="_blank">
-      <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_certification_badges/gcp_certification_badge_associate_cloud_engineer.png" width="175px" alt="Google Cloud Certified - Associate Cloud Engineer"/>
+      <img src="./images/gcp_certification_badges/gcp_certification_badge_associate_cloud_engineer.png" width="175px" alt="Google Cloud Certified - Associate Cloud Engineer"/>
       </a>
   </p>
 </div>
