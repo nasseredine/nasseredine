@@ -1,14 +1,11 @@
 # Hello, World! 👋
 
-My name is Nasseredine Bajwa and I'm a Google Cloud Certified Associate Cloud Engineer. I live in France and I'm currently seeking opportunities in the field of Cloud Engineering, Data Engineering, or Data Science leveraging Google Cloud Platform services.
+My name is Nasseredine Bajwa and I live in France 🇫🇷.
+As a freelance Cloud DevOps Engineer, I help businesses deploy and manage their workloads at scale on Google Cloud with Kubernetes and modern automation (CI/CD, GitOps) with security and FinOps integrated at the architecture design stage.
 
-I am currently working on completing Udacity <a href="https://github.com/nasseredine/udacity-dend/blob/master/README.md">Data Engineering Nanodegree</a> capstone project.
-
-## Projects
-- <a href="https://github.com/nasseredine/udacity-dend/blob/master/README.md">Data Engineering Nanodegree projects</a>
-
-
-
+🗓 Available ASAP <br/>
+💻 Remote work with occasional travel <br/>
+🏅 Certified Google Cloud ☁️ ACE, Certified Kubernetes and Cloud Native ⎈ KCNA and CKA <br/>
 
 ## Skills
 
@@ -17,29 +14,23 @@ I am currently working on completing Udacity <a href="https://github.com/nassere
 <p>
   <img src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud Platform"/>
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/-Helm-091C84?style=flat-square&logo=helm&logoColor=white" alt="helm"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-PostgresSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgresSQL"/>
-  <img src="https://img.shields.io/badge/-Apache_Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white" alt="Apache Cassandra"/>
-  <img src="https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Apache Spark"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/-GitLab-fca326?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
-  <img src="https://img.shields.io/badge/-Apache_Airflow-007A88?style=flat-square&logo=apache-airflow&logoColor=white" alt="Apache Airflow"/>
-  <img src="https://img.shields.io/badge/-GNU_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="GNU Bash"/>
-  <img src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="Apache Web Services"/>
 </p>
 
 ### Currently learning
 <p>
-  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/-Apache_Kafka-000000?style=flat-square&logo=apache-kafka&logoColor=white" alt="Apache Kafka"/>
+  <img src="https://img.shields.io/badge/-Istio-516ba9?style=flat-square&logo=istio&logoColor=white" alt="Istio"/>
 </p>
 
+## Certification badges
 
-## Google Cloud
-
-### Certification badges
+### Google Cloud
 
 <div>
   <p align="center">
@@ -49,39 +40,11 @@ I am currently working on completing Udacity <a href="https://github.com/nassere
   </p>
 </div>
 
-
-### Skill badges
-
-<div>
-  <p align="center">
-    <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb/badges/329357" target="_blank">
-      <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_create_and_manage_cloud_resources.png" width="175px" alt="Create and Manage Cloud Resources"/>
-    </a>
-    <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb/badges/344080" target="_blank">
-      <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_foundational_infrastructure.png" width="175px" alt="Foundational Infrastructure"/>
-    </a>
-    <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb/badges/345669" target="_blank">
-      <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_set_up_and_configure_cloud_environments.png" width="175px" alt="Set Up and Configure Cloud Environments"/>
-    </a>
-    <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb/badges/467538" target="_blank">
-      <img src="https://raw.githubusercontent.com/nasseredine/nasseredine/master/images/gcp_skill_badges/gcp_skill_badge_deploy_to_kubernetes.png" width="175px" alt="Deploy to Kubernetes Skill"/>
-    </a>
-  </p>
-</div>
-
-
 <hr/>
 
 <div>
   <p align="center">
-    <a href="https://github.com/nasseredine" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
-    <a href="mailto:fr.bajwa.nasseredine@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/nasseredine" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-    <a href="https://twitter.com/Nasseredine_B" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  </p>
-  <p align="center">
     <a href="https://www.qwiklabs.com/public_profiles/ab0f617c-b57f-4a42-96c8-4a3bb4a982bb" target="_blank"><img alt="Qwiklabs" src="https://img.shields.io/badge/Qwiklabs-%23F5CD0E.svg?style=for-the-badge&logo=Qwiklabs&logoColor=white" /></a>
-    <a href="https://www.coursera.org/user/8fc607335fb5cbb0ca4e7f7e5b580e2e" target="_blank"><img alt="Coursera" src="https://img.shields.io/badge/Coursera-%232A73CC.svg?style=for-the-badge&logo=Coursera&logoColor=white" /></a>
-    <a href="https://www.hackerrank.com/nasseredine" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
   </p>
 </div>
